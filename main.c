@@ -10,7 +10,7 @@
 #include "factorial.h"
 
 int main() {
-    printf("Enter the number :");
+    printf("Enter a number :");
     int n;
     scanf("%d",&n);
     fact(n);
